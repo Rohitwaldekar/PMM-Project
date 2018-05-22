@@ -1,0 +1,34 @@
+#include<stdio.h>
+#include<string.h>
+
+struct login
+    {
+            char name[20];
+            char pass[20];
+    };
+
+int main(void)
+{
+    struct login employ[50];
+    FILE *pt,*te;
+    int a=0,n,cho=2;
+      pt=fopen("E:\\Project\\username.txt","a+");
+
+    if(pt==EOF)
+        printf("\n\t\t\tError in opening");
+    else
+    {
+			while(fscanf(pt,"%s",employ[a].name)!=EOF)
+	        {
+	            //fread(employ[a].name,20,1,pt);
+	            printf("\n\t[%d] %s\n",a,employ[a].name);
+             	a++;
+	        }
+			printf("\n\t\t\tSelect User NO. : ");
+			scanf("%d",&n);
+  	}
+    fclose(pt);
+	printf("Success");
+    return 0;
+}
+
