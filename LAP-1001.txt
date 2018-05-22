@@ -1,0 +1,50 @@
+
+
+				    **** PRODUCT MASTER MAINTAINANCE ****
+				лллллллллллллллллллллллллллллллллллллллллллл
+
+						Product Details
+					     =====================
+	--------------------------------------------------------------------------------------------------------
+	Product Id : LAP-1001
+
+	Product Status : Defunct
+	--------------------------------------------------------------------------------------------------------
+
+					       Product Attributes
+					     =====================
+	1)Processor :
+		Name : C6820HK
+		Speed(GHz) : 4.0
+		Suppplier : AMD
+		Cost(Rs) : 13470
+
+	2)Disply :
+		Name : G5030
+		Size : 15.6
+		Suppplier : AMD
+		Cost : 6480
+
+	3)Body :
+		Name : C700
+		Size : 15.600000
+		Suppplier : AMD
+		Cost : 2250
+
+	4)Key Bord :
+		Name : MK240
+		Size : 15.600000
+		Suppplier : AMD
+		Cost : 1040
+
+	5)Battery :
+		Name : N5010
+		Capacity(mAh) : 4400
+		Suppplier : HP
+		Cost : 4400
+
+	6)Hard Disk :
+		Name : DTC100A1
+		Capacity(TB) : 2
+		Suppplier : AMD
+		Cost : 3340

@@ -1,0 +1,46 @@
+
+
+				    **** PRODUCT MASTER MAINTAINANCE ****
+				лллллллллллллллллллллллллллллллллллллллллллл
+
+						Product Details
+					     =====================
+	--------------------------------------------------------------------------------------------------------
+	Product Id : LAPTOP
+
+	Product Status : Defunct
+	--------------------------------------------------------------------------------------------------------
+
+					       Product Attributes
+					     =====================
+
+
+	1)Processor:
+		Name:  C6820HK
+		Speed(GHz):  4.0
+		Suppplier:  AMD
+		Cost(Rs):  14400
+
+	2)Disply:
+		Name:  SV1513EB
+		Size(Ft):  12.0
+		Suppplier:  AMD
+		Cost(Rs):  2400
+
+	3)Body:
+		Name:  G575
+		Size(Ft):  12.0
+		Suppplier:  AMD
+		Cost(Rs):  3610
+
+	4)Battery:
+		Name:  E943A
+		Capacity(mAh):  2200
+		Suppplier:  AMD
+		Cost(Rs):  2100
+
+	5)HardDisk:
+		Name:  S10DM10
+		Capacity(TB):  2
+		Suppplier:  AMD
+		Cost(Rs):  3310
